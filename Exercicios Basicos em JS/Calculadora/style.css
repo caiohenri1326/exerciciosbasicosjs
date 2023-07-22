@@ -1,0 +1,19 @@
+*{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
+    padding: 0%;
+    margin: 7px;    
+}
+p{
+    font-size: 30px;
+}
+button{
+    height: 100px;
+    width: 160px;
+    font-size: 15px;
+    background-color: yellow;
+    border-radius: 5px;
+}
+section{
+    font-size: 20px;
+} 

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+
+p{
+    font-size: 25px;
+}
+
+button{
+    height: 80px;
+    width: 180px;
+    font-size: 15px;
+    border-radius: 5px;
+}

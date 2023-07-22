@@ -1,0 +1,13 @@
+*{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 20px;
+    padding: 0%;
+    margin: 7px;
+}
+button{
+    height: 80px;
+    width: 180px;
+    background-color: rgb(220, 238, 117);
+    border-radius: 7px;
+}
